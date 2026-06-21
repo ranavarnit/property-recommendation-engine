@@ -1,4 +1,4 @@
-# 🏠 Property Recommendation Engine
+# 🏠 Property Recommendation Engine [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ranavarnit-property-recommendation-engine.streamlit.app/)
 
 A Streamlit-based real estate recommendation system that helps users find properties in Bengaluru based on budget, location, and BHK preferences.
 
